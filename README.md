@@ -128,18 +128,18 @@ Preloadbar
 
 1. Characters
 
-a. Animated bee
-i. Bee (flying circular motion,change facial expression)
-b. Other
-i. Bear (flying, bouncing cute face with big tummy)
+ a. Animated bee
+ i.Bee (flying circular motion,change facial expression)
+ b.Other
+ i.Bear(flying,bouncing cute face with big tummy)
 
-2. Ambient
-a. Sunflower farm
-b.Honey bee packed in bottle
-c.Animated ground
+2.Ambient
+ a.Sunflower farm
+ b.Honey bee packed in bottle
+ c.Animated ground
    
 3.Other
-a.honey bottle
+ a.honey bottle
                               	
 Demographics:
 Age: 5 to 50 , Sex: Everyone , Casual players mostly
