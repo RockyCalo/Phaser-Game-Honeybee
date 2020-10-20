@@ -4,6 +4,8 @@
 
 
 
+
+
 ### 
 
 
@@ -20,9 +22,8 @@ ________________________________________________________________________________
 ****Project Description:****
 
 This game design document describes the details for a multi-platform touch based 2D Title “Honeybee” this game the bear character will catch the favorite of bees. Which is the honey in the bottle that is packed already; it is the original story and character. The game plays a single player that the gamer will really enjoy the game by the graphics and mechanics of the game.
-
+_______________________________________________________________________________________________________________________________________
 ****Characters:****
-_____________________________________________________________________________________________________________________________________
 Bee is the main character of this game. These flying bee find honey to catch from their rival which the character brother bear, if the bear will touch from the bees.The bear will loss in Game that’s why the challenge here as a player you should don’t go near to bees because they Will kill the bear in this game. The nature of bears here in this game is selfish, bears are thirsty of honey in this game. The goal of the game as a bear catches more and more honey that is near in bees which the honey is in the bottle already.
 _____________________________________________________________________________________________________________________________________
 ****bear-ps****
