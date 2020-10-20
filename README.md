@@ -6,9 +6,6 @@ https://drive.google.com/file/d/1QJ1jgRNoR2PeTGLc5NGDESJHQqVi4w45/view?usp=shari
 https://docs.google.com/document/d/1eW_Oj_-4N0TBkW21B1QzQ3pSYf5sfARAjEJZGD2ShQE/edit?usp=sharing
 
 
-
-
-
 ![logo](https://user-images.githubusercontent.com/72955529/96548211-06bdac00-12e0-11eb-9091-03047898a5d6.png)
 
 
@@ -57,12 +54,9 @@ Losing- These are losing conditions: losing by not flying properly and your char
 Will go near in the bees comfort zone the result you will lose in the game.
  
  
- 
- 
 Art style:
  
 This is a 2D game with high graphics quality Sprite that the combination of color will attract with gamers. Through art players will imagine that they are the one in feet of the character because of a style of art that catches the sympathy of a player. Combination of color will make the game alive because of the style of art that I used with highly animated scenarios character and background. Since the game is like the color of Honey as a player you want to eat honey so that in the game you pretend that you are the character striving for more honey because of the color of art that the rgb mixture color combination.
- 
  
 Music and Sounds:
  
@@ -71,18 +65,13 @@ Music and Sounds:
 -Using real HD sounds of a character you can imagine that you as a player is the character of that game that you are flying.
 -As a player you will see your opponent the facial expression is angry plus the music is intense you can encounter nervousness while playing.
  
-
-
 Technical Description:
  
 The game will be Mobile Cross-platform: iOS, Android, Windows phone, Follow with PC standalone version.
  
- 
 Controls:
  
 -In a Personal Computer you hover your mouse where you want to go. Is it up or down and bounce and the weapons are tab and space keys, in smartphones and iPhones just tap you screen and good to go you can enjoy playing.
-
-
 
 ![honeys-ps](https://user-images.githubusercontent.com/72955529/96548314-38cf0e00-12e0-11eb-9e18-b4a3176b5de7.png)
 
@@ -126,20 +115,20 @@ Preloadbar
 
 ![preloader-bar](https://user-images.githubusercontent.com/72955529/96548577-b6931980-12e0-11eb-9048-1e7fb562defd.png)
 
-1.Characters
+1.Characters,
 
- a)Animated bee
- i)Bee (flying circular motion,change facial expression)
- b)Other
- i)Bear(flying,bouncing cute face with big tummy)
+ a.)Animated bee,
+ i.)Bee (flying circular motion,change facial expression),
+ b.)Other,
+ i.)Bear(flying,bouncing cute face with big tummy),
 
-2.Ambient
- a)Sunflower farm
- b)Honey bee packed in bottle
- c)Animated ground
+2.)Ambient,
+ a.)Sunflower farm,
+ b.)Honey bee packed in bottle,
+ c.)Animated ground,
    
-3.Other
- a)honey bottle
+3.Other,
+ a.)honey bottle
                               	
 Demographics:
 Age: 5 to 50 , Sex: Everyone , Casual players mostly
