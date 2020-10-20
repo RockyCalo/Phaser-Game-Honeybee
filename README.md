@@ -1,10 +1,7 @@
 # Phaser-Game-Honeybee
 Game Dev Final Exam
-
+Game Animation Sample Link:
 https://drive.google.com/file/d/1QJ1jgRNoR2PeTGLc5NGDESJHQqVi4w45/view?usp=sharing
-
-https://docs.google.com/document/d/1eW_Oj_-4N0TBkW21B1QzQ3pSYf5sfARAjEJZGD2ShQE/edit?usp=sharing
-
 
 ![logo](https://user-images.githubusercontent.com/72955529/96548211-06bdac00-12e0-11eb-9091-03047898a5d6.png)
 
