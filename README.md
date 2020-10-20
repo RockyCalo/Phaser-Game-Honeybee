@@ -126,6 +126,26 @@ Preloadbar
 
 ![preloader-bar](https://user-images.githubusercontent.com/72955529/96548577-b6931980-12e0-11eb-9048-1e7fb562defd.png)
 
+1. Characters
+a. Animated bee
+i. Bee ( flying circular motion, change facial expression )
+b. Other
+i. Bear (flying, bouncing  cute face with big tummy)
+2. Ambient
+   a. Sunflower farm
+   b.Honey bee packed in bottle
+   c.Animated ground
+3.Other
+   a.honey bottle
+                              	
+Demographics:
+Age: 5 to 50 , Sex: Everyone , Casual players mostly
+ 
+Platforms & Monetization 
+Honeybee is free download in the play store for smart phones and in the iPhone's app store it is a free version with ads, you can encounter ads before you start the game. And companies for sponsorship their brand name will see in the user interface during games. This shows the Monetization and revenue of this game.  
+	
+
+
 
 
 
